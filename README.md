@@ -1,6 +1,6 @@
 # School
 
-Considering school as an example,Here is a result website with acess to regsitred students and staff of that school.
+Considering school as an example,Here is a result website with acess to regsitred students and staff of that school.Staff can login using their respective ID's provided by the school and upload the results,attendence percentage of the students. Students can check their results using their register number.
 
 ----
 ## Installation and Usage
