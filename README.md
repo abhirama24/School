@@ -10,3 +10,6 @@ Considering school as an example,Here is a result website with acess to regsitre
 - Open the XAMPP folder inside it open the **htdocs** folder and save the php files.
 - Opne the XAMPP control panel and start the *Apache* and *MySQL* servers and check for green color in module area.
 - Click on the **Admin** button of the *Apache* server it will direct to the localhost on your web browser.
+
+### Usage
+!(./Royal.jpg)
