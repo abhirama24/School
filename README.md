@@ -16,3 +16,31 @@ Considering school as an example,Here is a result website with acess to regsitre
 <p align="center">
   <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/MAIN.JPG">
 </p>
+From this page USer can navigate into their respective sections.
+
+#### Staff Portal
+Here there are 2 options,new user and existing user.
+<p align="center">
+For already existing staff:
+  </p>
+<p align="center">
+  <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/Existing_Staff.JPG">
+</p>
+<p align="center">
+For New staff:
+  </p>
+<p align="center">
+  <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/New_staff.JPG">
+</p>
+They can login using their Name and ID provided by school. 
+
+#### Student Portal
+Here student can view their results by using register number.If invalid register number if not an error will be displayed.
+</p>
+<p align="center">
+  <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/Student.JPG">
+</p>
+</p>
+<p align="center">
+  <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/Display.JPG">
+</p>
