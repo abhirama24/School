@@ -12,7 +12,7 @@ Considering school as an example,Here is a result website with acess to regsitre
 - Click on the **Admin** button of the *Apache* server it will direct to the localhost on your web browser.
 
 ### Usage
+#### Home Page
 <p align="center">
-   Home Page
   <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/MAIN.JPG">
 </p>
