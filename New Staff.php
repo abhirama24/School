@@ -89,7 +89,7 @@ if (isset($_POST['submit']))
   		
   		<br><br>
  		<div class="center">
- 			<input type="submit" name="submit" value="submit"> 
+ 			<input type="submit" name="submit" value="Submit to Register"> 
  		</div>
 
  	</form>
