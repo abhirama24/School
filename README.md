@@ -36,7 +36,6 @@ They can login using their Name and ID provided by school.
 
 #### Student Portal
 Here student can view their results by using register number.If invalid register number if not an error will be displayed.
-</p>
 <p align="center">
   <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/Student.JPG">
 </p>
@@ -44,6 +43,7 @@ Here student can view their results by using register number.If invalid register
 <p align="center>
           Final Result Display
  </p>
+          
 <p align="center">
   <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/Display.JPG">
 </p>
