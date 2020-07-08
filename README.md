@@ -12,4 +12,4 @@ Considering school as an example,Here is a result website with acess to regsitre
 - Click on the **Admin** button of the *Apache* server it will direct to the localhost on your web browser.
 
 ### Usage
-!(./Royal.jpg)
+
