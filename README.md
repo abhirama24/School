@@ -47,6 +47,7 @@ Final Result Display:
 <p align="center">
   <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/Display.JPG">
 </p>
+
 ## License
 MIT License
 
