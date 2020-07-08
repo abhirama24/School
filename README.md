@@ -13,5 +13,6 @@ Considering school as an example,Here is a result website with acess to regsitre
 
 ### Usage
 <p align="center">
+   Home Page
   <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/MAIN.JPG">
 </p>
