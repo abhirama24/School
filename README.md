@@ -41,7 +41,7 @@ Here student can view their results by using register number.If invalid register
 </p>
 
 <p align="center">
-For New staff:
+Final Result Display:
   </p>
           
 <p align="center">
