@@ -40,9 +40,9 @@ Here student can view their results by using register number.If invalid register
   <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/Student.JPG">
 </p>
 
-<p align="center>
-          Final Result Display
- </p>
+<p align="center">
+For New staff:
+  </p>
           
 <p align="center">
   <img width="600" height="500" src="https://raw.githubusercontent.com/abhirama24/School/master/Display.JPG">
